@@ -1,0 +1,20 @@
+#banner {
+   background-attachment: scroll;
+   background-clip: border-box;
+   background-color: rgba(0, 0, 0, 0);
+   background-image: linear-gradient(rgb(167, 243, 242) 0px, rgb(73, 207, 239) 100%);
+   background-origin: padding-box;
+   background-size: auto;
+   box-sizing: border-box;
+   color: rgb(64, 82, 97);
+   display: block;
+   font-family: effra, sans-serif;
+   font-size: 16px; 
+   position: relative; 
+}
+ 
+
+#title {
+     width: 50%;
+    margin: 0 auto;
+}
